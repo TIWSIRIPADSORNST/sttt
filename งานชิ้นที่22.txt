@@ -1,0 +1,95 @@
+﻿<HTML>
+<HEAD>
+<TITLE> เพื่อนสนิทของฉัน </TITLE>
+</HEAD>
+<BODY>
+<CENTER> <font face = "angsana new" size = "8" color = "blue"> เพื่อนสนิทของฉัน </font> </CENTER>
+<br>
+<TABLE width = "90%" height = "90%" BORDER = "2" align = "center" >
+<CAPTION> เพื่อนสนิทของฉัน </CAPTION>
+<TR>
+<TH> รูปเพื่อนของฉัน </TH>
+</TR>
+
+<TR>
+<TH><IMG SRC = "มุก2.JPG"></TH>
+</TR>
+
+<TR>
+<TH><IMG SRC = "เฟส2.JPG"></TH>
+</TR>
+
+<TR>
+<TH><IMG SRC = "แพร์1.JPG"></TH>
+</TR>
+
+<TR>
+<TH><IMG SRC = "ออย.JPG"></TH>
+</TR>
+
+</TR>
+<TH><IMG SRC = "นัด2.JPG"></TH>
+</TR>
+
+<TR>
+<TH><IMG SRC = "โอ๊ค2.JPG"></TH>
+</TR>
+
+<br>
+<TABLE width = "80%" height = "80%" BORDER = "2" align = "center" >
+<CAPTION> เพื่อนสนิทของฉัน </CAPTION>
+<TR>
+<TH> ชื่อ-นามสกุล </TH>
+<TH> รูปเพื่อนสนิท </TH>
+</TR>
+
+<TR>
+<TH>นางสาวเบญจรัตน์ ลัดดาพวง ( มุก)</TH>
+<TH><IMG SRC = "มุก2.JPG"></TH>
+</TR>
+
+<TR>
+<TH>นางสาวภัคจิรา เฉลยวิมาร (เฟส)</TH>
+<TH><IMG SRC = "เฟส2.JPG"></TH>
+</TR>
+
+<TR>
+<TH>นางสาวมานิตา กิ่งโพธิ์ (แพร์)</TH>
+<TH><IMG SRC = "แพร์1.JPG"></TH>
+</TR>
+
+<TR>
+<TH>นางสาวช่อทิพย์ แปลกกลาง (ออย)</TH>
+<TH><IMG SRC = "ออย.JPG"></TH>
+</TR>
+
+<TR>
+<TH>นางสาวนฤสรณ์ แก้วสุนทร(นัด)</TH>
+<TH><IMG SRC = "นัด2.JPG"></TH>
+</TR>
+
+<TR>
+<TH>นายตันติกร ปิ่นรัตน์ (โอ๊ค)</TH>
+<TH><IMG SRC = "โอ๊ค2.JPG"></TH>
+</TR>
+
+</TABLE>
+
+<TABLE width=1000 BORDER="2">
+
+<TH><FONT face="cordia new" SIZE="3">เพี่อนสนิทของฉัน<FONT></TH></TR>
+<TD> <IMG SRC="เฟส2.jpg"</TD> </TR>
+<TH><FONT face="cordia new" SIZE="3">นางสาวภัคจิรา เฉลยวิมาร<FONT></TH></TR>
+</TABLE>
+<TABLE width=1000 BORDER="2">
+<TH><FONT face="cordia new" SIZE="3">เพศชาย<FONT></TH><TH><FONT face="cordia new" SIZE="3">เพศหญิง<FONT></TH></TR>
+<TD> <IMG SRC="เอฟ.jpg"> </TD><TD> <IMG SRC="แมน.jpg"> </TD> </TR>
+<TD> <IMG SRC="เวฟ.jpg"> </TD><TD> <IMG SRC="มิว.jpg"> </TD> </TR>
+<TD> <IMG SRC="กัน.jpg"> </TD><IMG SRC="มิว.jpg"> </TD> </TR>
+</BODY>
+</HTML>
+
+</TABLE>
+</BODY>
+</HTML>
+
